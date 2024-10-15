@@ -28,6 +28,7 @@
 5. 🕸️ [Code Snippets to Copy](#snippets)
 6. 🔗 [Assets](#links)
 7. 🚀 [More](#more)
+8. https://github.com/adrianhajdin/banking/blob/main/README.md#tech-stack
 
 ## 🚨 Tutorial
 
